@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CreeperTest:jar">
+    <output-path>$USER_HOME$/Desktop/Server Minecraft/Spigot 1.8.8/plugins</output-path>
+    <root id="archive" name="CreeperMCPL.jar">
+      <element id="module-output" name="CreeperTest" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Server Minecraft/Spigot 1.8.8/spigot.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Server Minecraft/spigot-api-1.8.8-R0.1-20160205.005117-39-javadoc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

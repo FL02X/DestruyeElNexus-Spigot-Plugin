@@ -1,0 +1,8 @@
+main: mc.main.Main
+version: 0.1.0
+name: CreeperTest
+commands:
+  den:
+    description: Configuracion de la partida
+  kit:
+    description: Menu de Kits
